@@ -1,1 +1,2 @@
-these are the scripts from caepentry workshop
+These are the materials from the WSU software Carpentry workshop.
+
